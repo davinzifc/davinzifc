@@ -27,11 +27,11 @@ I love the moment an idea stops being a sketch and starts breathing: a system th
 
 | | |
 |---|---|
-| ⚔️ **Backends that don't fall** | APIs, data models and queues designed to survive real traffic |
-| 🕹️ **Games** | a pixel-art game in Swift for iPhone & Mac, and worlds in Unity |
-| 🧱 **Mods** | bending Minecraft to my will, one mechanic at a time |
-| 🛡️ **Security** | hunting vulnerabilities before anyone else finds them |
-| 🧪 **Experiments** | real-time apps, automation, and whatever caught my curiosity this week |
+| <img src="./assets/icons/backend.svg" width="18" height="18" align="top" alt=""> &nbsp;**Backends that don't fall** | APIs, data models and queues designed to survive real traffic |
+| <img src="./assets/icons/games.svg" width="18" height="18" align="top" alt=""> &nbsp;**Games** | a pixel-art game in Swift for iPhone & Mac, and worlds in Unity |
+| <img src="./assets/icons/mods.svg" width="18" height="18" align="top" alt=""> &nbsp;**Mods** | bending Minecraft to my will, one mechanic at a time |
+| <img src="./assets/icons/security.svg" width="18" height="18" align="top" alt=""> &nbsp;**Security** | hunting vulnerabilities before anyone else finds them |
+| <img src="./assets/icons/experiments.svg" width="18" height="18" align="top" alt=""> &nbsp;**Experiments** | real-time apps, automation, and whatever caught my curiosity this week |
 
 <p align="center">⸻ ✦ ⸻</p>
 
