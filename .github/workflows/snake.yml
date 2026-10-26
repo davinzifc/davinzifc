@@ -1,8 +1,8 @@
-name: generate snake
+name: Gothic serpent
 
 on:
   schedule:
-    - cron: "0 */12 * * *"
+    - cron: "0 6 * * *"   # every day at 1:00 a.m. Colombia time
   workflow_dispatch:
   push:
     branches: [main]
@@ -13,14 +13,17 @@ permissions:
 jobs:
   generate:
     runs-on: ubuntu-latest
+    timeout-minutes: 10
     steps:
-      - uses: Platane/snk@v3
+      - name: Summon the serpent
+        uses: Platane/snk@v3
         with:
           github_user_name: ${{ github.repository_owner }}
           outputs: |
-            dist/snake-glitch.svg?color_snake=#FF3D8B&color_dots=#161B22,#0E4F4A,#178F86,#22C2B4,#2EE6D6
+            dist/snake-gothic.svg?color_snake=#9E2A2B&color_dots=#1A1614,#3A332C,#6B5E4E,#9C8459,#B8995A
 
-      - uses: crazy-max/ghaction-github-pages@v4
+      - name: Publish to the output branch
+        uses: crazy-max/ghaction-github-pages@v4
         with:
           target_branch: output
           build_dir: dist
