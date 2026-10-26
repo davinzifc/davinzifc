@@ -54,16 +54,12 @@ $ review --every-step             # no inference, no invention        [ok]
 ### `[05] METRICS`
 
 <p align="center">
-  <img height="170" src="https://github-readme-stats.vercel.app/api?username=davinzifc&show_icons=true&hide_border=true&include_all_commits=true&count_private=true&bg_color=0B0D10&title_color=2EE6D6&text_color=E8ECEF&icon_color=FF3D8B&ring_color=2EE6D6&custom_title=%3E%20sys.stats" alt="GitHub stats">
+  <img height="170" src="https://github-readme-stats.vercel.app/api?username=davinzifc&show_icons=true&hide_border=true&bg_color=0B0D10&title_color=2EE6D6&text_color=E8ECEF&icon_color=FF3D8B&ring_color=2EE6D6&custom_title=%3E%20sys.stats" alt="GitHub stats">
   <img height="170" src="https://github-readme-stats.vercel.app/api/top-langs/?username=davinzifc&layout=compact&hide_border=true&langs_count=8&bg_color=0B0D10&title_color=2EE6D6&text_color=E8ECEF&custom_title=%3E%20top.langs" alt="Top languages">
 </p>
 
 <p align="center">
-  <img src="https://streak-stats.demolab.com?user=davinzifc&hide_border=true&background=0B0D10&ring=2EE6D6&fire=FF3D8B&currStrkNum=E8ECEF&sideNums=E8ECEF&currStrkLabel=2EE6D6&sideLabels=9AA4AB&dates=9AA4AB&stroke=2A333B" alt="Streak">
-</p>
-
-<p align="center">
-  <img width="100%" src="https://github-readme-activity-graph.vercel.app/graph?username=davinzifc&hide_border=true&area=true&bg_color=0B0D10&color=9AA4AB&line=2EE6D6&point=FF3D8B&area_color=2EE6D6&title_color=2EE6D6&custom_title=%3E%20activity.log" alt="Activity graph">
+  <img src="https://streak-stats.demolab.com?user=davinzifc&hide_border=true&background=0B0D10&ring=2EE6D6&fire=FF3D8B&currStreakNum=E8ECEF&sideNums=E8ECEF&currStreakLabel=2EE6D6&sideLabels=9AA4AB&dates=9AA4AB&stroke=2A333B" alt="Streak">
 </p>
 
 <p align="center">
